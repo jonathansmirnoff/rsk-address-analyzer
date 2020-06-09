@@ -1,0 +1,25 @@
+{
+  "name": "rsk-address-analyzer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathansmirnoff/rsk-address-analyzer.git"
+  },
+  "author": "Jonathan Smirnoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathansmirnoff/rsk-address-analyzer/issues"
+  },
+  "homepage": "https://github.com/jonathansmirnoff/rsk-address-analyzer#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bn.js": "^5.1.2",
+    "objects-to-csv": "^1.3.6",
+    "web3": "^1.2.8"
+  }
+}
